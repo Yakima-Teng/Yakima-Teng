@@ -12,6 +12,9 @@ And followings are some of my works.
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 快速构建H5活动页（集成antd-mobile、支持FTP/SFTP命令行部署）。
 3. [classic-cli](https://github.com/Yakima-Teng/classic-cli): 🚀 使用构建工具进行无侵入的传统开发（可随时零成本脱离构建工具）。
 4. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 轻量级前端开发常用函数库（gzip压缩后4kb）。
+5. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 内容发布系统前台部分，nextjs (react + ssr) ，兼容wordpress库表结果，可直接使用wordpress做后台管理系统。
+6. [admin-system](https://github.com/Yakima-Teng/admin-system): 🛠 使用Ant Design Pro创建的后台项目模板。
+7. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
