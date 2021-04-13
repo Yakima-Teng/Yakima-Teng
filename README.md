@@ -9,11 +9,8 @@ Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://ww
 And followings are some of my works.
 
 1. [simple-server](https://github.com/Yakima-Teng/simple-server): 🤠 支持接口转发、动/静态mock的轻服务。集成PM2部署+日志优化。
-
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 快速构建H5活动页（集成antd-mobile、支持FTP/SFTP命令行部署）。
-
 3. [classic-cli](https://github.com/Yakima-Teng/classic-cli): 🚀 使用构建工具进行无侵入的传统开发（可随时零成本脱离构建工具）。
-
 4. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 轻量级前端开发常用函数库（gzip压缩后4kb）。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
