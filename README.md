@@ -8,7 +8,7 @@ Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://ww
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nikejaycn&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakima-Teng&layout=compact)
 
 <!--
 **Yakima-Teng/Yakima-Teng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
