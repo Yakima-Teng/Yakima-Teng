@@ -1,6 +1,8 @@
-### Hi there 👋, I am Yakima Teng from China.
+### Hi there 👋, this is Yakima Teng from China.
 
-I have a 10-year blog named [峰间的云](https://www.orzzone.com)
+I have a 10-year blog named [峰间的云](https://www.orzzone.com).
+
+Books I read recent years are displayed here: [豆瓣·我读过的书](https://book.douban.com/people/cleveryun/collect?sort=time&start=0&filter=all&mode=list&tags_sort=count).
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
