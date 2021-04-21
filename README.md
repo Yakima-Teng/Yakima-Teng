@@ -6,7 +6,7 @@ Books I read recent years are displayed here: [豆瓣·我读过的书](https://
 
 Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_en.html) and [中文版](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_cn.html).
 
-And followings are some of my works.
+And followings are some of my open-source works.
 
 1. [simple-server](https://github.com/Yakima-Teng/simple-server): 🤠 支持接口转发、动/静态mock的轻服务。集成PM2部署+日志优化。
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 快速构建H5活动页（集成antd-mobile、支持FTP/SFTP命令行部署）。
