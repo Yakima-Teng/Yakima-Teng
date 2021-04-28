@@ -18,7 +18,7 @@ Followings are some of my open-source works.
 
 And followings are some of my close-source works.
 
-1. [八哥网](https://www.verybugs.com): 在线bug监控系统。
+1. [八哥网](https://www.verybugs.com): 在线bug监控系统，支持邮件报警，多项目日志隔离等实用功能。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
