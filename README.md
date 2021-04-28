@@ -6,7 +6,7 @@ Books I read recent years are displayed here: [豆瓣·我读过的书](https://
 
 Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_en.html) and [中文版](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_cn.html).
 
-And followings are some of my open-source works.
+Followings are some of my open-source works.
 
 1. [simple-server](https://github.com/Yakima-Teng/simple-server): 🤠 支持接口转发、动/静态mock的轻服务。集成PM2部署+日志优化。
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 快速构建H5活动页（集成antd-mobile、支持FTP/SFTP命令行部署）。
@@ -15,6 +15,10 @@ And followings are some of my open-source works.
 5. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 内容发布系统前台部分，nextjs (react + ssr) ，兼容wordpress库表结果，可直接使用wordpress做后台管理系统。
 6. [admin-system](https://github.com/Yakima-Teng/admin-system): 🛠 使用Ant Design Pro创建的后台项目模板。
 7. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
+
+And followings are some of my close-source works.
+
+1. [八哥网](https://www.verybugs.com): 在线bug监控系统。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
