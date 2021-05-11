@@ -20,6 +20,7 @@ And followings are some of my close-source works.
 
 1. [八哥网](https://www.verybugs.com): 在线bug监控系统，支持邮件报警，多项目日志隔离等实用功能，含PC官网、后台管理系统(vue + element)、服务端、js库文件四个子项目，数据库使用mongodb。
 2. [Hi备忘录](https://www.hitodos.com/): 极简备忘录，含PC官网、wap站、套壳安卓APP三个子项目。
+3. [唐宋元明清](https://www.veryideas.cm/): 基于开源项目[wipi](https://github.com/fantasticit/wipi)的基础上进行了sql性能调优（全唐诗+全宋诗，加起来三十万篇文章）。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
