@@ -10,7 +10,7 @@ Followings are some of my open-source works.
 
 1. [jmock](https://github.com/Yakima-Teng/jmock): 🤠 命令行工具，方便mock数据。
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 脚手架，快速构建移动端H5活动页。
-3. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 轻量级前端开发常用函数库（gzip压缩后4kb），[API文档在此](https://yakima-teng.github.io/utils-daily/)。
+3. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 前端开发常用函数库。
 4. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 CMS内容管理系统，Nuxt3 + Sequelize (MySQL)。
 5. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
 
