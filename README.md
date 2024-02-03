@@ -8,19 +8,16 @@ Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://ww
 
 Followings are some of my open-source works.
 
-1. [simple-server](https://github.com/Yakima-Teng/simple-server): 🤠 支持接口转发、动/静态mock的轻服务。集成PM2部署+日志优化。
-2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 快速构建H5活动页（集成antd-mobile、支持FTP/SFTP命令行部署）。
-3. [classic-cli](https://github.com/Yakima-Teng/classic-cli): 🚀 使用构建工具进行无侵入的传统开发（可随时零成本脱离构建工具）。
-4. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 轻量级前端开发常用函数库（gzip压缩后4kb），[API文档在此](https://yakima-teng.github.io/utils-daily/)。
-5. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 内容发布系统前台部分，nextjs (react + ssr) ，兼容wordpress库表结果，可直接使用wordpress做后台管理系统。
-6. [admin-system](https://github.com/Yakima-Teng/admin-system): 🛠 使用Ant Design Pro创建的后台项目模板。
-7. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
+1. [jmock](https://github.com/Yakima-Teng/jmock): 🤠 命令行工具，方便mock数据。
+2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 脚手架，快速构建移动端H5活动页。
+3. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 轻量级前端开发常用函数库（gzip压缩后4kb），[API文档在此](https://yakima-teng.github.io/utils-daily/)。
+4. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 CMS内容管理系统，Nuxt3 + Sequelize (MySQL)。
+5. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
 
 And followings are some of my close-source works.
 
-1. [八哥网](https://www.verybugs.com): 在线bug监控系统，支持邮件报警，多项目日志隔离等实用功能，含PC官网、后台管理系统(vue + element)、服务端、js库文件四个子项目，数据库使用mongodb。
-2. [Hi备忘录](https://www.hitodos.com/): 极简备忘录，含PC官网、wap站、套壳安卓APP三个子项目。
-3. [唐宋元明清](https://www.veryideas.com/): 基于开源项目[wipi](https://github.com/fantasticit/wipi)的基础上进行了sql性能调优（全唐诗+全宋诗，加起来三十万篇文章）。
+1. [日志上报系统](https://www.verybugs.com): 在线bug监控系统（上报前端JS错误、Ajax接口拦截上报、PV/UV统计等）。
+2. [二三维模型在线编辑](https://www.veryhouses.com/): 在线编辑二维图形（俯视图），赋予三维属性后进行立体化展示。
 
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
 
