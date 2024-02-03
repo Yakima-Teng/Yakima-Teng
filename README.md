@@ -19,7 +19,9 @@ And followings are some of my close-source works.
 1. [日志上报系统](https://www.verybugs.com): 在线bug监控系统（上报前端JS错误、Ajax接口拦截上报、PV/UV统计等）。
 2. [二三维模型在线编辑](https://www.veryhouses.com/): 在线编辑二维图形（俯视图），赋予三维属性后进行立体化展示。
 
+<!--
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
+-->
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakima-Teng&layout=compact)
 
