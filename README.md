@@ -8,7 +8,9 @@ Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://ww
 
 Followings are some of my open-source works.
 
-1. [jmock](https://github.com/Yakima-Teng/jmock): 🤠 命令行工具，方便mock数据。
+1. [jmock](https://github.com/Yakima-Teng/jmock): 🤠 [![npm](https://img.shields.io/npm/v/jmock.svg?style=flat-square)](https://www.npmjs.com/package/jmock)
+[![npm downloads](https://img.shields.io/npm/dm/jmock?color=blue&label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/jmock)
+[![license](https://img.shields.io/github/license/Yakima-Teng/jmock.svg?style=flat-square)](https://github.com/Yakima-Teng/jmock)命令行工具，方便mock数据。
 2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 脚手架，快速构建移动端H5活动页。
 3. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 前端开发常用函数库。
 4. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 CMS内容管理系统，Nuxt3 + Sequelize (MySQL)。
