@@ -2,28 +2,16 @@
 
 I have a 10-year blog named [峰间的云](https://www.orzzone.com).
 
+<!--
 Books I read recent years are displayed here: [豆瓣·我读过的书](https://book.douban.com/people/cleveryun/collect?sort=time&start=0&filter=all&mode=list&tags_sort=count).
 
 Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_en.html) and [中文版](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_cn.html).
+-->
 
-Followings are some of my open-source works.
+Some of my close-source works.
 
-1. [jmock](https://github.com/Yakima-Teng/jmock): 🤠 [![npm](https://img.shields.io/npm/v/jmock.svg)](https://www.npmjs.com/package/jmock)
-[![npm downloads](https://img.shields.io/npm/dm/jmock?color=blue&label=npm%20downloads)](https://www.npmjs.com/package/jmock)
-[![license](https://img.shields.io/github/license/Yakima-Teng/jmock.svg)](https://github.com/Yakima-Teng/jmock)命令行工具，方便mock数据。
-2. [html5-cli](https://github.com/Yakima-Teng/html5-cli): 💩 [![npm](https://img.shields.io/npm/v/html5-cli.svg)](https://www.npmjs.com/package/html5-cli)
-[![npm downloads](https://img.shields.io/npm/dm/html5-cli?color=blue&label=npm%20downloads)](https://www.npmjs.com/package/html5-cli)
-[![license](https://img.shields.io/github/license/Yakima-Teng/html5-cli.svg)](https://github.com/Yakima-Teng/html5-cli)脚手架，快速构建移动端H5活动页。
-3. [utils-daily](https://github.com/Yakima-Teng/utils-daily): 🚦 [![npm](https://img.shields.io/npm/v/utils-daily.svg)](https://www.npmjs.com/package/utils-daily)
-[![npm downloads](https://img.shields.io/npm/dm/utils-daily?color=blue&label=npm%20downloads)](https://www.npmjs.com/package/utils-daily)
-[![license](https://img.shields.io/github/license/Yakima-Teng/utils-daily.svg)](https://github.com/Yakima-Teng/utils-daily)前端开发常用函数库。
-4. [IdeaPress](https://github.com/Yakima-Teng/IdeaPress): 🐢 CMS内容管理系统，Nuxt3 + Sequelize (MySQL)。
-5. [node-crawler](https://github.com/Yakima-Teng/node-crawler): nodejs写的定时爬虫，爬取码云推荐项目。
-
-And followings are some of my close-source works.
-
-1. [日志上报系统](https://www.verybugs.com): 在线bug监控系统（上报前端JS错误、Ajax接口拦截上报、PV/UV统计等）。
-2. [二三维模型在线编辑](https://www.veryhouses.com/): 在线编辑二维图形（俯视图），赋予三维属性后进行立体化展示。
+1. [Bug report and log management system](https://www.verybugs.com).
+2. [2D/3D canvas](https://www.veryhouses.com/).
 
 <!--
 ![Yakima Teng's Github Stats](https://github-readme-stats.vercel.app/api?username=Yakima-Teng&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
