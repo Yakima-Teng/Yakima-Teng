@@ -1,4 +1,4 @@
-### Hi there 👋, this is Yakima Teng from China.
+### Hi there 👋, this is Yakima Teng from Shanghai, China.
 
 I have a 10-year blog named [峰间的云](https://www.orzzone.com).
 
