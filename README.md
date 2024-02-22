@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Yakima Teng from Shanghai, China.
 
-I have a 10-year blog named [峰间的云](https://www.orzzone.com).
+I have a 10+ years blog named [峰间的云](https://www.orzzone.com).
 
 <!--
 Books I read recent years are displayed here: [豆瓣·我读过的书](https://book.douban.com/people/cleveryun/collect?sort=time&start=0&filter=all&mode=list&tags_sort=count).
