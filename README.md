@@ -1,15 +1,16 @@
 ### Hi there 👋, this is Yakima Teng from Shanghai, China.
 
 - 🔭 I’m a full-stack programmer using JavaScript, Node.js, MySQL, Redis and so on.
-- 🌱 I enjoy at writting scripts, documentation, and playing badminton.
-- 👯 This is my [personal homepage](https://www.orzzone.com).
-- 🤔 My baby was born in year 2024!
+- 🌱 I enjoy at writting scripts, documentation, reading, and playing badminton.
+- 🤔 This is my [personal homepage](https://www.orzzone.com).
+- 😄 Books I read recent years are displayed here: [豆瓣·我读过的书](https://book.douban.com/people/cleveryun).
+- 👯 My baby was born in year 2024!
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakima-Teng&layout=compact)
 
-<!--
 Books I read recent years are displayed here: [豆瓣·我读过的书](https://book.douban.com/people/cleveryun/collect?sort=time&start=0&filter=all&mode=list&tags_sort=count).
 
+<!--
 Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_en.html) and [中文版](https://www.orzzone.com/projects/html5-cli/htmls/cv/index_cn.html).
 -->
 
