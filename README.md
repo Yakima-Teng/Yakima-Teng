@@ -11,6 +11,9 @@ Here is my A4-paper-printable CV (updated in 2018): [English Edition](https://ww
 Some of my close-source works.
 
 1. [Bug report and log management system](https://www.verybugs.com).
+
+![](https://cdn.orzzone.com/verybugs/bug-script-report.png)
+
 2. [2D/3D canvas](https://www.veryhouses.com/).
 
 <!--
